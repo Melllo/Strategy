@@ -1,0 +1,13 @@
+E:\C#\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+E:\C#\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+E:\C#\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+E:\C#\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+E:\C#\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+E:\C#\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+E:\C#\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+E:\C#\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+E:\C#\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+E:\C#\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+E:\C#\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+E:\C#\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+E:\C#\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
